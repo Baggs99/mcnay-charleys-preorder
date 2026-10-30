@@ -10,6 +10,9 @@ pnpm-debug.log*
 node_modules
 dist
 dist-ssr
+.env
+.env.*
+!.env.example
 *.local
 
 # Editor and OS files
